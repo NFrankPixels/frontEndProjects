@@ -1,0 +1,27 @@
+body {
+    /* background-color: aqua; */
+    margin: 10px;
+}
+
+img {
+    border-radius: 50% ;
+    height: 170px;
+    margin: 10px;
+
+}
+.Header {
+    display: flex;
+    margin: 10px;
+    align-items: center;    
+}
+.workExperience {
+    display: flex;
+    margin: 10px;
+}
+
+.work {
+    margin-left: 20px;
+}
+.skills {
+    margin: 10px;
+}
